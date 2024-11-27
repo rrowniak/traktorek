@@ -12,3 +12,6 @@ Informacje zawarte w tym dokumencie mogą być niekompletne lub błędne. Wynika
 
 - [Wstęp](./doc/00_wstep.md)
 - [Dane techniczne](./doc/01_dane_techniczne.md)
+- [Uwagi ogólne i bezpieczeństwo](./doc/02_uwagi_ogolne.md)
+- [Eksploatacja](./doc/03_eksploatacja.md)
+- [Obsługa traktorka](./doc/04_obsluga.md)
