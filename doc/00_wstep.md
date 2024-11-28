@@ -26,4 +26,6 @@ W przypadku wątpliwości lub potrzeby uzyskania oficjalnych informacji, zaleca 
 > [!CAUTION]
 > Ryzyko uszkodzenia sprzętu.
 
+Symbol (?) oznacza, że nie ma pewności co do danej informacji i/lub tłumaczenie jest nieprecyzyjne bądź niezrozumiałe.
+
 [Następna strona](./01_dane_techniczne.md)
