@@ -11,6 +11,8 @@ Użytkownik korzysta z niniejszej instrukcji na własne ryzyko. Autor nie ponosi
 W przypadku wątpliwości lub potrzeby uzyskania oficjalnych informacji, zaleca się konsultację z autoryzowanym serwisem lub producentem traktorka ISEKI GEAS 27.
 
 ## Konwencje
+### Notatki
+
 > [!NOTE]
 > Użyteczne informacje o których warto wiedzieć. 
 
@@ -26,6 +28,8 @@ W przypadku wątpliwości lub potrzeby uzyskania oficjalnych informacji, zaleca 
 > [!CAUTION]
 > Ryzyko uszkodzenia sprzętu.
 
-Symbol (?) oznacza, że nie ma pewności co do danej informacji i/lub tłumaczenie jest nieprecyzyjne bądź niezrozumiałe.
+### Informacje niepewne i niepotwierdzone
+
+Symbol :question: oznacza, że nie ma pewności co do danej informacji i/lub tłumaczenie jest nieprecyzyjne bądź niezrozumiałe. Wymagane jest pogłębienie tematu aby usunąć problem.
 
 [Następna strona](./01_dane_techniczne.md)
