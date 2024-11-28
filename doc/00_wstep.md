@@ -30,6 +30,6 @@ W przypadku wątpliwości lub potrzeby uzyskania oficjalnych informacji, zaleca 
 
 ### Informacje niepewne i niepotwierdzone
 
-Symbol :question: oznacza, że nie ma pewności co do danej informacji i/lub tłumaczenie jest nieprecyzyjne bądź niezrozumiałe. Wymagane jest pogłębienie tematu aby usunąć problem.
+Symbol :question: oznacza, że nie ma pewności co do danej informacji i/lub tłumaczenie jest nieprecyzyjne bądź niezrozumiałe. Wymagane jest pogłębienie tematu aby rozwiązać problem.
 
 [Następna strona](./01_dane_techniczne.md)

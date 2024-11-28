@@ -19,7 +19,7 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 | Kod | Znaczenie |
 | --- | ----------|
 | F | Napęd na 4 koła |
-| FF | Napęd na 4 koła, duże prędkości / specyfikacja dużych prędkości (?)|
+| FF | Napęd na 4 koła, wersja dla dużych prędkości (vmax = 25 km/h) |
 | NF | Napęd na 4 koła, wersja obniżona (niskopodłogowa) |
 
 4. Wspomaganie kierownicy
@@ -27,8 +27,8 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 | Kod | Znaczenie |
 | --- | ----------|
 | W | Wspomaganie kierownicy, synchronizacja liniowa |
-| S | Wspomaganie kierownicy, asystent skrętu/super IQ (?) |
-| G | Wspomaganie kierownicy, synchronizacja liniowa, niezależny WOM (?) |
+| S | Wspomaganie kierownicy, asystent skrętu/super IQ :question: |
+| G | Wspomaganie kierownicy, synchronizacja liniowa, niezależny WOM :question: |
 
 5. Asystent skrętu
 
@@ -37,7 +37,58 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 | K | Asystent skrętu |
 | V | Asystent skrętu zintegrowany z trybem 4x4 |
 
+6. Wyposażenie maszyny 
+
+| Kod | Znaczenie |
+| --- | ----------|
+| WX | System elektrohydrauliczny |
+| Q | Elektrohydrauliczny asystent skrętu :question: |
+| R | Zablokowany WOM :question: |
+| A | Krótki dolny link :question: |
+| I | Kabina ROPS |
+| CY | Model z kabiną klimatyzowaną |
+
+7. Ogumienie
+
+| Kod | Znaczenie |
+| --- | ----------|
+| 02 | Opony o małej szerokości i dużych średnicach |
+| 04 | Opony rolkowe :question: |
+| 06 | Opony o dużej średnicy |
+| 16 | Opony o dużej średnicy |
+
 ## Wymiary opon
+### Opony przednie
+| Model | Kod #7 | Rozmiar opony | Rozstaw osi (mm)|
+| ----- | --- | ------------- | ----------------|
+| TG23(3) | standard | 6-14 | 960 |
+| TG23(3) | 06 | 7-14 | 1090 |
+| TG25(3) | standard | 7-14 | 1090 |
+| TG25(3) | 06 | 7-16 | 1090 |
+| TG27(3) | standard | 7-16 | 1090 |
+| TG27(3) | N :question: | 6-12 | 990 |
+| TG29(3) | standard | 7-16 | 1090 |
+| TG31(3) | standard | 8-16 | 1150 |
+| TG31(3) | 16 | 8-16 | 1220 |
+| TG33(3) | standard | 8-16 | 1150 |
+
+### Opony tylne
+| Model | Kod #7 | Rozmiar opony | Rozstaw osi (mm)|
+| ----- | --- | ------------- | ----------------|
+| TG23(3) | standard | 9.5-22 | 1010 |
+| TG23(3) | 06 | 9.5-24 | 1010 |
+| TG25(3) | standard | 9.5-24 | 1010 |
+| TG25(3) | 06 | 11.2-24 | 1050 |
+| TG27(3) | standard | 11.2-24 | 1050 |
+| TG27(3) | N :question: | 9.5-22 | 1010 |
+| TG29(3) | standard | 11.2-26 | 1050 |
+| TG29(3) | 04 | 12.4-24 | 1050 |
+| TG31(3) | standard | 12.4-24 | 1100 |
+| TG31(3) | 02 | 11.2-26 | 1060 |
+| TG31(3) | 16 | 11.2-28 | 1220 |
+| TG33(3) | standard | 13.6-24 | 1100 |
+| TG33(3) | 02 | 11.2-28 | 1060 |
+| TG33(3) | 04 | 13.6-24 | 1100 |
 
 ## Silnik
 Parametry dla modelów Iseki GEAS TG 27 i Iseki GEAS TG 273:
