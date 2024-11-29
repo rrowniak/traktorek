@@ -10,6 +10,7 @@ Dotyczy Iseki GEAS TG27.
 | Lata produkcji | 1994 - 2004[^1]|
 | Masa własna | 1265 kg[^2] :question: |
 | Tylny układ zawieszenia narzędzi TUZ | 3 punktowy system zawieszenia kat. 1 |
+| Pompa hydrauliczna | 38 l/min |
 | Wałek mocy PTO | 4 prędkości, lewo/prawo |
 | Skrzynia biegów | Półautomatyczna, 16 biegów przód, 16 biegów tył, rewers |
 | Blokada tylnego mostu | Tak |
