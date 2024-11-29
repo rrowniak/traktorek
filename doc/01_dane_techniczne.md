@@ -46,8 +46,8 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 | Kod | Znaczenie |
 | --- | ----------|
 | W | Wspomaganie kierownicy, synchronizacja liniowa |
-| S | Wspomaganie kierownicy, asystent skrętu/super IQ :question: |
-| G | Wspomaganie kierownicy, synchronizacja liniowa, niezależny WOM :question: |
+| S | Wspomaganie kierownicy, asystent skrętu (super IQ) |
+| G | Wspomaganie kierownicy, synchronizacja liniowa, WOM sterowany elektromechanicznie (przyciskami)|
 
 5. Asystent skrętu
 
@@ -61,10 +61,10 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 | Kod | Znaczenie |
 | --- | ----------|
 | WX | System elektrohydrauliczny |
-| Q | Elektrohydrauliczny asystent skrętu :question: |
+| Q | System elektrohydrauliczny, elektrohydrauliczny asystent skrętu :question:, regulacja siły hamowania :question: |
 | R | Zablokowany WOM :question: |
 | A | Krótki dolny link :question: |
-| I | Kabina ROPS |
+| I | Kabina ROPS z nawiewem powietrza |
 | CY | Model z kabiną klimatyzowaną |
 
 7. Ogumienie
