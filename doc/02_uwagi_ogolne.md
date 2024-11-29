@@ -138,3 +138,50 @@
 9. Lampki kontrolne dla modelu VWX
    - 14 Automatyczne podnoszenie podnośnika TUZ (model VWX)
 
+## Elektroniczny wyświetlacz (modele S, G)
+
+Wyświetlacz służy do sygnalizacji stanu pracy i informowaniu o nietypowych warunkach pracy ciągnika. Zazwyczaj podczas pracy wyświetlana jest prędkość poruszania się pojazdu i prędkość obrotowa wałka WOM jeśli ten jest załączony, dodatkowo wizualizowana jest głębokość np. orki (jest to bardzo poglądowe wskazanie).
+
+Podczas uruchamiania silnika, obsługi przełącznika wyboru napędu na 4 koła lub w przypadku wystąpienia nieprawidłowości w układzie elektrohydraulicznym, odpowiedni komunikat zostanie wyświetlony na wyświetlaczu.
+
+![Wyświetlacz](../img/02_rys10.png)
+
+1. Sekcja wizualizacji głębokości opuszczenia TUZ (głębokość orki)
+2. Prędkość pojazdu
+3. Prędkość obrotowa wałka WOM
+
+### Komunikaty podczas uruchamiania silnika
+
+![Wyświetlacz start](../img/02_rys11.png)
+
+1. Ekran powitania / brak komunikatów :question:
+2. Dźwignia sterująca góra / dół
+3. Bieg neutralny (model S)
+4. WOM (model G)
+
+### Komunikaty podczas wyboru trybu 4WD (4x4)
+
+![Wyświetlacz 4x4](../img/02_rys12.png)
+
+1. Praca :question: (model V)
+2. Bieg neutralny (model V)
+3. Blokada napędu 4x4 (model V)
+4. Automatyczna zmiana (model VWX)
+5. Asystent skrętu (model Q)
+
+### Komunikaty oznaczające błędy
+
+![Wyświetlacz błędy](../img/02_rys13.png)
+
+1. Błąd czujnika podnośnika ramienia (wieszaka) TUZ
+2. Błąd głównego czujnika zmiany biegów
+3. Błąd czujnika nachylenia (poziomu)
+4. Błąd czujnika zmiany biegów
+5. Przekroczono maksymalny poziom nachylenia na prawo
+6. Przekroczono maksymalny poziom nachylenia na lewo
+
+### Przełącznik wyświetlacza
+
+![Wyświetlacz przełącznik](../img/02_rys14.png)
+
+Gdy ekran wyświetlacza mruga, naciśnij (1) aby przełączyć tryb wyświetlania :question:
