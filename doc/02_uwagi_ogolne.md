@@ -14,11 +14,15 @@
 > [!IMPORTANT]
 > Podczas jazdy z dużymi obciążeniami (np. zjazd ze zbocza, praca w polu) nie należy używać przycisków zmiany biegów (półautomat).
 
-## Opis
+## Widok z lewej strony
 
 ![Traktor widok z lewej strony](../img/02_rys1.png)
 
+## Widok z prawej strony
+
 ![Traktor widok z prawej strony](../img/02_rys2.png)
+
+## Widok na TUZ
 
 ![Traktor widok na TUZ](../img/02_rys3.png)
 
@@ -30,6 +34,8 @@
 6. Siłownik wieszaka prawego do ustalania poziomu cięgien dolnych
 7. Łącznik górny
 
+
+## Wnętrze
 
 ![Traktor wnętrze](../img/02_rys4.png)
 
@@ -50,7 +56,9 @@
 15. Dźwignia gazu
 16. Dźwignia szybkiego sterowania podnosnikiem TUZ
 
-![Traktor szczegóły](../img/02_rys5.png)
+## Wnętrze okolice siedzenia 
+
+![Traktor okolice siedzenia](../img/02_rys5.png)
 
 1. Skrzynka bezpeczników
 2. Blokada sprzęgła (dłuższe postoje, zimowanie, itp)
@@ -60,7 +68,9 @@
 6. Blokada mechanizmu różnicowego tylnej osi
 7. Regulacja prędkości opadania podnosnika TUZ
 
-![Traktor szczegóły](../img/02_rys6.png)
+## Konsola kierownicy
+
+![Traktor konsola kierownicy](../img/02_rys6.png)
 
 1. Licznik ciągnika
 2. Lampka kontrolna kierunkowskaz lewy
@@ -76,7 +86,9 @@
 12. Panel lampek sygnalizacyjnych
 13. Lampka kontrolna kierunkowskaz prawy
 
-![Traktor szczegóły](../img/02_rys7.png)
+## Widok pod siedzeniem
+
+![Traktor widok pod siedzeniem](../img/02_rys7.png)
 
 1. Pokrętło regulacji hamulca
 2. Schowek narzędziowy
@@ -100,7 +112,7 @@
 
 ## Konsola licznika (modele S, G)
 
-![Traktor skrzynka sterownicza hydrauliki](../img/02_rys9.png)
+![Traktor konsola licznika](../img/02_rys9.png)
 
 1. Obrotomierz
 2. Licznik motogodzin 
@@ -110,19 +122,19 @@
 6. Elektroniczny wyświetlacz
 7. Wskaźnik trybu 4x4 i asystentu skrętu - IQ4WD (model V)
 8. Lampki kontrolne 
-   1. Podnośnik TUZ - :question: (modele WX, Q)
-   2. Asystent skrętu (model Q) lub automatyczne podnoszenie podnośnika TUZ (model VWX, patrz 9.14)
-   3. Automatyczne obciążenie (modele VWX, Q)
-   4. Zatrzymanie podnośnika TUZ w górnej pozycji (model R)
-   5. Sygnalizacja rozłączenia hamulców dzielonych
-   6. Sygnalizacja przeroczenia dopuszczalnej temperatury wody chłodzącej
-   7. Sygnalizacja utraty ciśnienia oleju w silniku
-   8. Sygnalizacja braku ładowania akumulatora
-   9. Praca WOM (modele R, G)
-   10. Hamulec postojowy (model S)
-   11. Świece żarowe
-   12. Asystent sktrętu :question: (model V)
-   13. Sygnalizacja cofania (modele WX, Q)
+   - 1. Podnośnik TUZ - :question: (modele WX, Q)
+   - 2. Asystent skrętu (model Q) lub automatyczne podnoszenie podnośnika TUZ (model VWX, patrz 9.14)
+   - 3. Automatyczne obciążenie (modele VWX, Q)
+   - 4. Zatrzymanie podnośnika TUZ w górnej pozycji (model R)
+   - 5. Sygnalizacja rozłączenia hamulców dzielonych
+   - 6. Sygnalizacja przeroczenia dopuszczalnej temperatury wody chłodzącej
+   - 7. Sygnalizacja utraty ciśnienia oleju w silniku
+   - 8. Sygnalizacja braku ładowania akumulatora
+   - 9. Praca WOM (modele R, G)
+   - 10. Hamulec postojowy (model S)
+   - 11. Świece żarowe
+   - 12. Asystent sktrętu :question: (model V)
+   - 13. Sygnalizacja cofania (modele WX, Q)
 9. Lampki kontrolne dla modelu VWX
-   14. Automatyczne podnoszenie podnośnika TUZ (model VWX)
+   - 14. Automatyczne podnoszenie podnośnika TUZ (model VWX)
 
