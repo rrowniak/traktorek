@@ -122,19 +122,19 @@
 6. Elektroniczny wyświetlacz
 7. Wskaźnik trybu 4x4 i asystentu skrętu - IQ4WD (model V)
 8. Lampki kontrolne 
-   - 1. Podnośnik TUZ - :question: (modele WX, Q)
-   - 2. Asystent skrętu (model Q) lub automatyczne podnoszenie podnośnika TUZ (model VWX, patrz 9.14)
-   - 3. Automatyczne obciążenie (modele VWX, Q)
-   - 4. Zatrzymanie podnośnika TUZ w górnej pozycji (model R)
-   - 5. Sygnalizacja rozłączenia hamulców dzielonych
-   - 6. Sygnalizacja przeroczenia dopuszczalnej temperatury wody chłodzącej
-   - 7. Sygnalizacja utraty ciśnienia oleju w silniku
-   - 8. Sygnalizacja braku ładowania akumulatora
-   - 9. Praca WOM (modele R, G)
-   - 10. Hamulec postojowy (model S)
-   - 11. Świece żarowe
-   - 12. Asystent sktrętu :question: (model V)
-   - 13. Sygnalizacja cofania (modele WX, Q)
+   - 1 Podnośnik TUZ - :question: (modele WX, Q)
+   - 2 Asystent skrętu (model Q) lub automatyczne podnoszenie podnośnika TUZ (model VWX, patrz 9.14)
+   - 3 Automatyczne obciążenie (modele VWX, Q)
+   - 4 Zatrzymanie podnośnika TUZ w górnej pozycji (model R)
+   - 5 Sygnalizacja rozłączenia hamulców dzielonych
+   - 6 Sygnalizacja przeroczenia dopuszczalnej temperatury wody chłodzącej
+   - 7 Sygnalizacja utraty ciśnienia oleju w silniku
+   - 8 Sygnalizacja braku ładowania akumulatora
+   - 9 Praca WOM (modele R, G)
+   - 10 Hamulec postojowy (model S)
+   - 11 Świece żarowe
+   - 12 Asystent sktrętu :question: (model V)
+   - 13 Sygnalizacja cofania (modele WX, Q)
 9. Lampki kontrolne dla modelu VWX
-   - 14. Automatyczne podnoszenie podnośnika TUZ (model VWX)
+   - 14 Automatyczne podnoszenie podnośnika TUZ (model VWX)
 
