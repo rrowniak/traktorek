@@ -76,7 +76,7 @@
 2. Lampka kontrolna kierunkowskaz lewy
 3. Nawiewy powietrza (modele Y, CY)
 4. Przełącznik (klakson, kierunkowskazy, światła)
-5. Włącznik/przełącznik kierunku WOM (model G)
+5. Włącznik WOM (model G)
 6. Stacyjka
 7. Blokada napędu 4x4 (model V)
 8. Przełącznik trybu 2x4/4x4
@@ -156,7 +156,7 @@ Podczas uruchamiania silnika, obsługi przełącznika wyboru napędu na 4 koła 
 
 1. Ekran powitania / brak komunikatów :question:
 2. Dźwignia sterująca góra / dół
-3. Bieg neutralny (model S)
+3. Wymagany bieg neutralny (model S)
 4. WOM (model G)
 
 ### Komunikaty podczas wyboru trybu 4WD (4x4)
@@ -185,3 +185,6 @@ Podczas uruchamiania silnika, obsługi przełącznika wyboru napędu na 4 koła 
 ![Wyświetlacz przełącznik](../img/02_rys14.png)
 
 Gdy ekran wyświetlacza mruga, naciśnij (1) aby przełączyć tryb wyświetlania :question:
+
+
+[Następna strona](./03_eksploatacja.md)

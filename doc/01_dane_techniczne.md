@@ -46,7 +46,7 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 | Kod | Znaczenie |
 | --- | ----------|
 | W | Wspomaganie kierownicy, synchronizacja liniowa |
-| S | Wspomaganie kierownicy, asystent skrętu (super IQ) |
+| S | Wspomaganie kierownicy, asystent skrętu, półautomat biegów  |
 | G | Wspomaganie kierownicy, synchronizacja liniowa, WOM sterowany elektromechanicznie (przyciskami)|
 
 5. Asystent skrętu
