@@ -68,6 +68,7 @@ Dla modeli innych niż WX i Q ustaw dźwignię sterującą w najniższej pozycji
 ### Wałek WOM w pozycji neutralnej
 
 ![Ustawienie wałka WOM w pozycji neutralnej N](../img/04_rys8.png)
+
 Wałek WOM powinien być ustawiony w pozycji neutralnej N.
 
 > [!IMPORTANT]
@@ -181,5 +182,78 @@ Powoli zwolnij pedał sprzęgła i zacznij proces rozgrzewania silnika. Ustaw ob
 
 > [!WARNING]
 > Pamiętaj o zaciągnięciu hamulca ręcznego. Traktor może ruszyć nawet będąc na biegu neutralnym.
+
+## Zatrzymanie silnika 
+- Obroty silnika powinny być zmniejszone do minimum (dźwignia gazu ręcznego powinna być przesunięta całkowicie do przodu)
+- Kluczyk stacyjki przekręć w pozycję "Stop"
+
+> [!TIP]
+> Jeśli powyższa procedura nie wyłączy silnika np. w skutek usterki, silnik można wyłączyć w sposób ręczny: otwórz prawą osłonę boczną i wciśnij (1) aż do zatrzymania silnika.
+>
+>  ![Wyłączenie silnika](../img/04_rys15.png)
+>
+
+> [!WARNING]
+> Nie gaś silnika jeśli pracuje na dużych obrotach.
+
+> [!CAUTION]
+> Po długotrwałej pracy, przed zgaszeniem silnik powinien pochodzić na najniższych obrotach przez ok od 5 minut do 10 minut.
+
+> [!NOTE]
+> Jeśli silnik zostanie zgaszony bez zaciągnięcia hamulca ręcznego sygnał ostrzegawczy będzie generowany (model S).
+
+## Ogólne uwagi
+
+### Blokada dyferencjału tylnej osi
+
+Podczas jazdy i normalnej pracy blokada dyferencjału tylnej osi powinna być wyłączona.
+
+![Blokada dyferencjału tylnej osi](../img/04_rys16.png)
+
+1. Pedał blokady dyferencjału tylnej osi
+2. Dyferencjał odblokowany
+3. Dyferencjał zblokowany
+
+> [!CAUTION]
+> Jazda z zablokowanym dyferencjałem tylnej osi może powodować nadmierne zużycie tylnych opon lub w skrajnym przypadku mechaniczne uszkodzenie pojazdu.
+
+> [!WARNING]
+> Blokadę należy załączać tylko po uprzednim wciśnięciu pedała sprzęgła.
+
+### Napęd na cztery koła 
+
+Podczas normalnej jazdy ustaw tryb (model K) na 2WD lub (model V) tryb "Jazda".
+
+![Blokada dyferencjału tylnej osi](../img/04_rys17.png)
+
+1. "Jazda" - automatycznie dołączany 4x4
+2. "Praca" - 4x4 + asystent skrętu
+
+Poniżej 
+
+![Kontrolki 4x4](../img/04_rys18.png)
+
+1. W zależności od modelu:
+| Model | Opis |
+| ----- | ---- |
+| K | Zapala się gdy wybór napędu 4x4 znajduje się w położeniu "asystent skrętu" a dźwignia zmiany biegów znajduje się w położeniu "biegi pełzające", "małe prędkości" bądź "średnie prędkości"|
+| V, VWX, Q | Zapala się gdy przełącznik wyboru napędu 4x4 jest ustawiony na "Praca" |
+2. Model VWX: lampka automatycznego podnoszenia mruga gdy przełącznik napędu 4x4 jest ustawiony na "autopodnoszenie" :question:
+3. Model Q: lampka asystentu skrętu miga gdy przełącznik wyboru napędu 4x4 jest ustawiony na "asystent skrętu"
+
+W modelach S i G po zmianie pozycji przełącznika napędu 4x4 na wyświetlaczu elektronicznym będzie migał jeden z poniższych komunikatów przez 5 sekund:
+
+![Wyświetlacz tryb 4x4](../img/04_rys19.png)
+
+1. Bieg neutralny :question:
+2. Praca
+3. Automatyczne dołączanie 4x4  ("Jazda")
+4. Asystent skrętu
+
+### Podnoszenie tylnego TUZ
+
+![Podnoszenie TUZ](../img/04_rys20.png)
+
+Pociągnij dźwignię do góry aby podnieś podczepione narzędzie.
 
 [Następna strona](./04_obsluga.md)

@@ -1,3 +1,7 @@
 [default.extend-words]
 Autor = "Autor"
 Tak = "Tak"
+numer = "numer"
+akumulator = "akumulator"
+proces = "proces"
+minut = "minut"

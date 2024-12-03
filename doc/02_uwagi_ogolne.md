@@ -14,6 +14,9 @@
 > [!IMPORTANT]
 > Podczas jazdy z dużymi obciążeniami (np. zjazd ze zbocza, praca w polu) nie należy używać przycisków zmiany biegów (półautomat).
 
+>[!IMPORTANT]
+> Podczas zjazdu ze stromych zboczy hamuj silnikiem.
+
 ## Widok z lewej strony
 
 ![Traktor widok z lewej strony](../img/02_rys1.png)
