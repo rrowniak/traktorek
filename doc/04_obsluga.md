@@ -234,10 +234,12 @@ Poniżej
 ![Kontrolki 4x4](../img/04_rys18.png)
 
 1. W zależności od modelu:
+
 | Model | Opis |
 | ----- | ---- |
-| K | Zapala się gdy wybór napędu 4x4 znajduje się w położeniu "asystent skrętu" a dźwignia zmiany biegów znajduje się w położeniu "biegi pełzające", "małe prędkości" bądź "średnie prędkości"|
+| K | Zapala się gdy wybór napędu 4x4 znajduje się w położeniu "asystent skrętu" a dźwignia zmiany biegów znajduje się w położeniu "biegi pełzające", "małe prędkości" bądź "średnie prędkości" |
 | V, VWX, Q | Zapala się gdy przełącznik wyboru napędu 4x4 jest ustawiony na "Praca" |
+
 2. Model VWX: lampka automatycznego podnoszenia mruga gdy przełącznik napędu 4x4 jest ustawiony na "autopodnoszenie" :question:
 3. Model Q: lampka asystentu skrętu miga gdy przełącznik wyboru napędu 4x4 jest ustawiony na "asystent skrętu"
 
@@ -256,4 +258,34 @@ W modelach S i G po zmianie pozycji przełącznika napędu 4x4 na wyświetlaczu 
 
 Pociągnij dźwignię do góry aby podnieś podczepione narzędzie.
 
-[Następna strona](./04_obsluga.md)
+### Wskaźnik temperatury płynu chłodnicy
+
+Przekroczenie dopuszczalnej temperatury płynu chłodnicy sygnalizowane jest zaświeceniem się lampki kontrolnej:
+
+![Podnoszenie TUZ](../img/04_rys21.png)
+
+W tym samym czasie zabrzmi brzęczyk ostrzegawczy. Można go wyłączyć w następujący sposób:
+
+![Podnoszenie TUZ](../img/04_rys22.png)
+
+> [!TIP]
+> Jedną z przyczyn przekroczenia dopuszczalnej temperatury może być zabrudzona chłodnica bądź jej ochrona (moskitiera).
+
+Również wskazówka wskaźnika temperatury osiągająca pole czerwone oznacza przekroczenie dopuszczalnej temperatury płynu chłodnicy.
+
+### Wskazania dla tylnego podnośnika TUZ
+
+Gdy podnosnik TUZ jest podniesiony (dźwignia sterująca ustawiona jest na najwyższym położeniu) wskaźnik elektroniczny pokaże:
+
+![Podnoszenie TUZ](../img/04_rys23.png)
+
+Gdy podnośnik TUZ jest opuszczony a pokrętło regulacji głębokości uprawy jest w pozycji "wyłączone" (maksymalnie w prawo, czerwone pole):
+
+![Podnoszenie TUZ](../img/04_rys24.png)
+
+Gdy podnośnik TUZ jest opuszczony a pokrętło regulacji głębokości uprawy jest w zakresie regulacji:
+
+![Podnoszenie TUZ](../img/04_rys25.png)
+
+
+[Następna strona](./05_praca.md)

@@ -15,3 +15,4 @@ Informacje zawarte w tym dokumencie mogą być niekompletne lub błędne. Wynika
 - [Uwagi ogólne i bezpieczeństwo](./doc/02_uwagi_ogolne.md)
 - [Eksploatacja](./doc/03_eksploatacja.md)
 - [Obsługa traktorka](./doc/04_obsluga.md)
+- [Praca](./doc/05_praca.md)

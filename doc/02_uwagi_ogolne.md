@@ -118,7 +118,7 @@
 ![Traktor konsola licznika](../img/02_rys9.png)
 
 1. Obrotomierz
-2. Licznik motogodzin 
+2. Licznik motogodzin. Ostatnia cyfra oznacza 1/10 godziny
 3. Wskaźnik temperatury wody
 4. Wskaźnik poziomu paliwa
 5. Sygnalizator załączonych biegów (model S)
@@ -140,6 +140,9 @@
    - 13 Sygnalizacja cofania (modele WX, Q)
 9. Lampki kontrolne dla modelu VWX
    - 14 Automatyczne podnoszenie podnośnika TUZ (model VWX)
+
+> [!NOTE]
+> Licznik motogodzin. Jedna motogodzina to praca silnika na obrotach 2500 obr/min przez jedną godzinę.
 
 ## Elektroniczny wyświetlacz (modele S, G)
 
