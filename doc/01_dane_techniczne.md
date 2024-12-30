@@ -3,12 +3,16 @@
 
 ## Podstawowe dane 
 
-Dotyczy Iseki GEAS TG27.
+Dotyczy Iseki GEAS TG27F-SVWX.
 
 | Nazwa parametru | Wartość | 
 | --------------- | ------- |
 | Lata produkcji | 1994 - 2004[^1]|
 | Masa własna | 1265 kg[^2] :question: |
+| Długość | 4.7 m |
+| Szerokość | 1.7 m |
+| Wysokość | 2.0 m |
+| Prędkość max | 15 km/h |
 | Tylny układ zawieszenia narzędzi TUZ | 3 punktowy system zawieszenia kat. 1 |
 | Pompa hydrauliczna | 38 l/min |
 | Wałek mocy PTO | 4 prędkości, lewo/prawo |
@@ -71,10 +75,21 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 
 | Kod | Znaczenie |
 | --- | ----------|
+| brak | standard |
+| N | Opony o małej szerokości |
 | 02 | Opony o małej szerokości i dużych średnicach |
 | 04 | Opony rolkowe :question: |
 | 06 | Opony o dużej średnicy |
 | 16 | Opony o dużej średnicy |
+
+### Przykład - TG27F-SVWX
+
+Moc 27 HP
+F - napęd na cztery koła
+S - wspomaganie kierownicy, asystent skrętu, półautomat biegów
+V - asystent skrętu zintegrowany z napędem 4x4 (włączenie blokady 4x4 włącza asystent skrętu)
+WX - system elektrohydrauliczny
+ogumienie - standard: przód 7-16, tył 11.2-24
 
 ## Wymiary opon
 ### Opony przednie
@@ -85,7 +100,8 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 | TG25(3) | standard | 7-14 | 1090 |
 | TG25(3) | 06 | 7-16 | 1090 |
 | TG27(3) | standard | 7-16 | 1090 |
-| TG27(3) | N | 6-12 | 990 |
+| TG273 | N | 6-12 | 990 |
+| TG27 | 15 | 212/80D-15P D | 1120 |
 | TG29(3) | standard | 7-16 | 1090 |
 | TG31(3) | standard | 8-16 | 1150 |
 | TG31(3) | 16 | 8-16 | 1220 |
@@ -121,6 +137,7 @@ Parametry dla modelów Iseki GEAS TG 27 i Iseki GEAS TG 273:
 | Obroty znamionowe| 2600 RPM |
 | Rozruch         | elektryczny | 
 | Instalacja elektryczna| 12 V|
+| Akumulator | 65 Ah |
 
 [Następna strona](./02_uwagi_ogolne.md)
 

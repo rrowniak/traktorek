@@ -1,6 +1,6 @@
 # Uwagi ogólne
 
-## Wstęp
+## Ważne informacje
 
 > [!IMPORTANT]
 > Podczas jazdy zblokuj lewy i prawy pedał hamulca.
@@ -12,10 +12,16 @@
 > Podczas jazdy po drodze napęd 4x4 powinien być rozłączony (ustawiony w trybie automatycznym).
 
 > [!IMPORTANT]
+> Podczas jazdy z dużymi obciążeniami na osi przedniej (ładowacz czołowy), napęd 4x4 powinien być rozłączony (ustawiony w trybie automatycznym).
+
+> [!IMPORTANT]
 > Podczas jazdy z dużymi obciążeniami (np. zjazd ze zbocza, praca w polu) nie należy używać przycisków zmiany biegów (półautomat).
 
->[!IMPORTANT]
+> [!IMPORTANT]
 > Podczas zjazdu ze stromych zboczy hamuj silnikiem.
+
+> [!IMPORTANT]
+> W przypadku przechowywania przez dłuższy czas należy odłączyć kabel akumulatora. Pozostawienie podłączonego akumulatora jest niebezpieczne, ponieważ myszy i inne zwierzęta mogą pogryźć przewody, co może prowadzić do zwarcia i ich zapalenia co w konsekwencji może skończyć się pożarem.
 
 ## Widok z lewej strony
 

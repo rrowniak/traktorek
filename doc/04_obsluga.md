@@ -115,11 +115,14 @@ W przypadku modelu IQ Shift (S), podczas zmiany położenia z „neutralnego” 
 6. Przycisk zwiększenia prędkości o jeden stopień
 7. Przycisk zmniejszenia prędkości o jeden stopień
 
->[!NOTE]
+> [!NOTE]
 > Przyciski zwiększania lub zmniejszania prędkości można używać bez korzystania ze sprzęgła.
 
->[!NOTE]
+> [!NOTE]
 > Przyciskami zwiększania lub zmniejszania prędkości nie da się wybrać biegu neutralnego. Podczas uruchomienia pojazdu zostaje wybrany bieg numer 1.
+
+> [!NOTE]
+>  Gdy bieg pomocniczy jest ustawiony na „dużą prędkość”, a bieg główny to 4. bieg, przesunięcie dźwigni zmiany biegów w tył spowoduje automatyczne przełączenie głównego biegu na 3. bieg.
 
 ### Dźwignia przyspieszenia (gazu ręcznego)
 
@@ -140,12 +143,12 @@ Ustaw dźwignię przyspieszenia w połowie zakresu.
 
 ![Stacyjka](../img/04_rys13.png)
 
-1. Stop. Gaszenie silnika, w tej pozycji można wyciągnąć kluczyk.
-2. Praca.
+1. OFF. Gaszenie silnika, w tej pozycji można wyciągnąć kluczyk.
+2. ON.
 3. Nagrzewanie świec żarowych. Pozycja automatycznie załączana po wybraniu "Praca".
 4. Rozruch.
 
-Przekręć kluczyk w pozycję praca. Powinny zapalić się conajmniej dwie lampki kontrolne: brak ciśnienia oleju i brak ładowania akumulatora.
+Przekręć kluczyk w pozycję ON. Powinny zapalić się conajmniej dwie lampki kontrolne: brak ciśnienia oleju i brak ładowania akumulatora.
 
 > [!WARNING]
 > Po odpaleniu silnika kontrolka braku ładowania powinna zgasnąć. W innym przypadku wystąpił problem z ładowaniem i akumulator może się całkowicie rozładować.
@@ -185,7 +188,7 @@ Powoli zwolnij pedał sprzęgła i zacznij proces rozgrzewania silnika. Ustaw ob
 
 ## Zatrzymanie silnika 
 - Obroty silnika powinny być zmniejszone do minimum (dźwignia gazu ręcznego powinna być przesunięta całkowicie do przodu)
-- Kluczyk stacyjki przekręć w pozycję "Stop"
+- Kluczyk stacyjki przekręć w pozycję OFF 
 
 > [!TIP]
 > Jeśli powyższa procedura nie wyłączy silnika np. w skutek usterki, silnik można wyłączyć w sposób ręczny: otwórz prawą osłonę boczną i wciśnij (1) aż do zatrzymania silnika.
