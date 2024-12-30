@@ -13,6 +13,7 @@ Dotyczy Iseki GEAS TG27F-SVWX.
 | Szerokość | 1.7 m |
 | Wysokość | 2.0 m |
 | Prędkość max | 15 km/h |
+| Pojemność zbiornika paliwa | 20 l |
 | Tylny układ zawieszenia narzędzi TUZ | 3 punktowy system zawieszenia kat. 1 |
 | Pompa hydrauliczna | 38 l/min |
 | Wałek mocy PTO | 4 prędkości, lewo/prawo |
@@ -85,10 +86,15 @@ T G 2 7 3 F F - S V W X R C Y 0 4
 ### Przykład - TG27F-SVWX
 
 Moc 27 HP
+
 F - napęd na cztery koła
+
 S - wspomaganie kierownicy, asystent skrętu, półautomat biegów
+
 V - asystent skrętu zintegrowany z napędem 4x4 (włączenie blokady 4x4 włącza asystent skrętu)
+
 WX - system elektrohydrauliczny
+
 ogumienie - standard: przód 7-16, tył 11.2-24
 
 ## Wymiary opon

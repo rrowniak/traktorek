@@ -121,6 +121,27 @@
 
 ## Konsola licznika (modele S, G)
 
+![Traktor konsola licznika](../img/02_rys9_1.png)
+
+1. Obrotomierz
+2. Licznik motogodzin. Ostatnia cyfra oznacza 1/10 godziny
+3. Wskaźnik temperatury wody
+4. Wskaźnik poziomu paliwa
+5. Sygnalizator załączonych biegów (model S)
+6. Elektroniczny wyświetlacz
+7. Wskaźnik trybu 4x4 i asystentu skrętu - IQ4WD (model V)
+8. Lampki kontrolne 
+   - 3 Podnoszenie TUZ. Migająca lampka oznacza gotowość systemu do pracy, jednak ze względów bezpieczeństwa praca siłowników nie jest uruchamiana automatycznie po starcie.
+   - 4 Asystent skrętu aktywny
+   - 5 Automatyczne podnoszenie TUZ po włączeniu biegu wstecznego
+   - 7 Sygnalizacja utraty ciśnienia oleju w silniku. Powinna zgasnąć gdy silnik pracuje.
+   - 8 Sygnalizacja braku ładowania akumulatora. Powinna zgasnąć gdy silnik pracuje.
+
+> [!NOTE]
+> Licznik motogodzin. Jedna motogodzina to praca silnika na obrotach 2500 obr/min przez jedną godzinę.
+
+## Konsola licznika (Seria 3 modele S, G)
+
 ![Traktor konsola licznika](../img/02_rys9.png)
 
 1. Obrotomierz

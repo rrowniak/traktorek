@@ -18,4 +18,24 @@
 
 ![Eksploatacja](../img/03_rys2.png)
 
+## Elektryka
+
+### Bezpieczniki
+
+Skrzynka bezpieczników w okolicy pedału sprzęgła, idąc od góry do dołu:
+
+| Wartość | Przeznaczenie |
+| ------- | ------------- |
+| 10A | Panel licznikowy |
+| 15A | Kierunkowskazy, lampy robocze (przód) |
+| 15A | Klakson |
+| 10A | Lampy tył, światło stop |
+| 10A | Automatyka 4x4, asystent skrętu |
+| 10A | Elektrohydraulika |
+| 5A | Elektrozawór gaszenia silnika |
+| 10A | Automatyka skrzyni biegów |
+| 5A | Pompa paliwa |
+
+
+
 [Następna strona](./04_obsluga.md)
