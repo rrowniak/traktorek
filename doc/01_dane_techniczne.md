@@ -35,7 +35,7 @@ T G 2 7 3 F F - S V W X R C Y 0 4
      |  |  |    | |     |      |
      1  2  3    4 5     6      7 
 ```
-1. Moc silnika, np. 27 to 27 HP.
+1. Moc silnika, np. 27 to 27 HP mierzona na wałku WOM, silnik w rzeczywistości powinien być o kilka koni mechanicznych mocniejszy.
 2. Seria 3, w pozostałych przypadkach pole to jest puste np. TG27FF-...
 3. Przeniesienie napędu
 
@@ -144,6 +144,17 @@ Parametry dla modelów Iseki GEAS TG 27 i Iseki GEAS TG 273:
 | Rozruch         | elektryczny | 
 | Instalacja elektryczna| 12 V|
 | Akumulator | 65 Ah |
+
+## Wałek WOM obroty
+
+Obroty silnika: 2600 RPM
+
+| Bieg | Obroty wałka WOM (obr/min) |
+| ---- | ---------------- |
+| 1 | 584 |
+| 2 | 749 |
+| 3 | 1079 |
+|4 | 1296 |
 
 [Następna strona](./02_uwagi_ogolne.md)
 

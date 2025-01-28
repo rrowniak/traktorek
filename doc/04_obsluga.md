@@ -157,6 +157,11 @@ Przekręć kluczyk w pozycję ON. Powinny zapalić się conajmniej dwie lampki k
 > Po odpaleniu silnika kontrolka braku ciśnienia oleju powinna zgasnąć. W przeciwnym przypadku natychmiast wyłącz silnik i zdiagnozuj usterkę. W przeciwnym razie może dojść do uszkodzenia silnika.
 
 ### Zapłon
+
+> [!NOTE]
+> Gdy temperatura jest niska przekręć stacyjkę w pozycję "świece żarowe".
+> Czas nagrzewania wynosi około 5 sekund.
+
 Po zgaszeniu lampki żarzenia świec żarowych:
 
 ![Stacyjka](../img/04_rys14.png)
