@@ -2,9 +2,13 @@
 
 ## Oleje i filtry
 Olej silnikowy: 10W-40 / PP 29
+
 Olej hydrauliczny: olej przekładniowo-hydrauliczny UTTO 10W-30 / SPH 94041
+
 Olej przekładni kół przednich (przedni most): 80W-90
+
 Filtr paliwa: SN20046
+
 Filtr powietrza: SA 16370
 
 ## Kontrola przed rozpoczęciem pracy
